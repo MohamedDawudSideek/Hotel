@@ -6,9 +6,7 @@ JavaFX and utilizing a MySQL database with Hibernate ORM,
 this application offers a user-friendly interface
 and robust functionality to manage a lot of aspects in hotel management efficiently.
 
-**Check Out this LinkedIn post for a video demonstration** :
 
-- [FX Hotel LinkedIn Video Demonstration](https://www.linkedin.com/posts/senuka-bandara_javafx-hotelmanagement-softwaredevelopment-activity-7299145057146650624-L1Sb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyDwdUBST_6x2xhy26-f-nyYDZ9yJu73Ms)
 
 ## Features
 
